@@ -1,0 +1,684 @@
+MIB = enterprises.3854.2.5.3.1.1.0.0.1.1  
+Value = 0.0.1.1
+
+MIB = enterprises.3854.2.5.3.1.2.0.0.1.1  
+Value = Dual Temperature Port 1
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.5.0.0.1.1  
+Value = C
+
+MIB = enterprises.3854.2.5.3.1.6.0.0.1.1  
+Value = 3
+
+MIB = enterprises.3854.2.5.3.1.8.0.0.1.1  
+Value = 1
+
+MIB = enterprises.3854.2.5.3.1.9.0.0.1.1  
+Value = 100
+
+MIB = enterprises.3854.2.5.3.1.10.0.0.1.1  
+Value = 200
+
+MIB = enterprises.3854.2.5.3.1.11.0.0.1.1  
+Value = 300
+
+MIB = enterprises.3854.2.5.3.1.12.0.0.1.1  
+Value = 400
+
+MIB = enterprises.3854.2.5.3.1.13.0.0.1.1  
+Value = 20
+
+MIB = enterprises.3854.2.5.3.1.14.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.15.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.16.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.17.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.18.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.19.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.20.0.0.1.1  
+Value = 313
+
+MIB = enterprises.3854.2.5.3.1.21.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.35.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.36.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.37.0.0.1.1  
+Value = 2147479552
+
+MIB = enterprises.3854.2.5.3.1.45.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.46.0.0.1.1  
+Value = High Critical
+
+MIB = enterprises.3854.2.5.3.1.47.0.0.1.1  
+Value = Low Critical
+
+MIB = enterprises.3854.2.5.3.1.48.0.0.1.1  
+Value = Normal
+
+MIB = enterprises.3854.2.5.3.1.49.0.0.1.1  
+Value = Low Warning
+
+MIB = enterprises.3854.2.5.3.1.50.0.0.1.1  
+Value = High Warning
+
+MIB = enterprises.3854.2.5.3.1.51.0.0.1.1  
+Value = Sensor Error
+
+MIB = enterprises.3854.2.5.3.1.54.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.55.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.56.0.0.1.1  
+Value = 34048
+
+MIB = enterprises.3854.2.5.3.1.57.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.58.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.59.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.70.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.71.0.0.1.0  
+Value = No Such Object currently exists at this OID
+
+MIB = enterprises.3854.2.5.3.1.1.0.0.1.1  
+Value = 0.0.1.1
+
+MIB = enterprises.3854.2.5.3.1.2.0.0.1.1  
+Value = Dual Temperature Port 1
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.5.0.0.1.1  
+Value = C
+
+MIB = enterprises.3854.2.5.3.1.6.0.0.1.1  
+Value = 3
+
+MIB = enterprises.3854.2.5.3.1.8.0.0.1.1  
+Value = 1
+
+MIB = enterprises.3854.2.5.3.1.9.0.0.1.1  
+Value = 100
+
+MIB = enterprises.3854.2.5.3.1.10.0.0.1.1  
+Value = 200
+
+MIB = enterprises.3854.2.5.3.1.11.0.0.1.1  
+Value = 300
+
+MIB = enterprises.3854.2.5.3.1.12.0.0.1.1  
+Value = 400
+
+MIB = enterprises.3854.2.5.3.1.13.0.0.1.1  
+Value = 20
+
+MIB = enterprises.3854.2.5.3.1.14.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.15.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.16.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.17.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.18.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.19.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.20.0.0.1.1  
+Value = 313
+
+MIB = enterprises.3854.2.5.3.1.21.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.35.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.36.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.37.0.0.1.1  
+Value = 2147479552
+
+MIB = enterprises.3854.2.5.3.1.45.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.46.0.0.1.1  
+Value = High Critical
+
+MIB = enterprises.3854.2.5.3.1.47.0.0.1.1  
+Value = Low Critical
+
+MIB = enterprises.3854.2.5.3.1.48.0.0.1.1  
+Value = Normal
+
+MIB = enterprises.3854.2.5.3.1.49.0.0.1.1  
+Value = Low Warning
+
+MIB = enterprises.3854.2.5.3.1.50.0.0.1.1  
+Value = High Warning
+
+MIB = enterprises.3854.2.5.3.1.51.0.0.1.1  
+Value = Sensor Error
+
+MIB = enterprises.3854.2.5.3.1.54.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.55.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.56.0.0.1.1  
+Value = 34048
+
+MIB = enterprises.3854.2.5.3.1.57.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.58.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.59.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.70.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.71.0.0.1.0  
+Value = No Such Object currently exists at this OID
+
+MIB = enterprises.3854.2.5.3.1.1.0.0.1.1  
+Value = 0.0.1.1
+
+MIB = enterprises.3854.2.5.3.1.2.0.0.1.1  
+Value = Dual Temperature Port 1
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.5.0.0.1.1  
+Value = C
+
+MIB = enterprises.3854.2.5.3.1.6.0.0.1.1  
+Value = 3
+
+MIB = enterprises.3854.2.5.3.1.8.0.0.1.1  
+Value = 1
+
+MIB = enterprises.3854.2.5.3.1.9.0.0.1.1  
+Value = 100
+
+MIB = enterprises.3854.2.5.3.1.10.0.0.1.1  
+Value = 200
+
+MIB = enterprises.3854.2.5.3.1.11.0.0.1.1  
+Value = 300
+
+MIB = enterprises.3854.2.5.3.1.12.0.0.1.1  
+Value = 400
+
+MIB = enterprises.3854.2.5.3.1.13.0.0.1.1  
+Value = 20
+
+MIB = enterprises.3854.2.5.3.1.14.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.15.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.16.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.17.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.18.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.19.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.20.0.0.1.1  
+Value = 313
+
+MIB = enterprises.3854.2.5.3.1.21.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.35.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.36.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.37.0.0.1.1  
+Value = 2147479552
+
+MIB = enterprises.3854.2.5.3.1.45.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.46.0.0.1.1  
+Value = High Critical
+
+MIB = enterprises.3854.2.5.3.1.47.0.0.1.1  
+Value = Low Critical
+
+MIB = enterprises.3854.2.5.3.1.48.0.0.1.1  
+Value = Normal
+
+MIB = enterprises.3854.2.5.3.1.49.0.0.1.1  
+Value = Low Warning
+
+MIB = enterprises.3854.2.5.3.1.50.0.0.1.1  
+Value = High Warning
+
+MIB = enterprises.3854.2.5.3.1.51.0.0.1.1  
+Value = Sensor Error
+
+MIB = enterprises.3854.2.5.3.1.54.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.55.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.56.0.0.1.1  
+Value = 34048
+
+MIB = enterprises.3854.2.5.3.1.57.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.58.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.59.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.70.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.71.0.0.1.0  
+Value = No Such Object currently exists at this OID
+
+MIB = enterprises.3854.2.5.3.1.1.0.0.1.1  
+Value = 0.0.1.1
+
+MIB = enterprises.3854.2.5.3.1.2.0.0.1.1  
+Value = Dual Temperature Port 1
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.5.0.0.1.1  
+Value = C
+
+MIB = enterprises.3854.2.5.3.1.6.0.0.1.1  
+Value = 3
+
+MIB = enterprises.3854.2.5.3.1.8.0.0.1.1  
+Value = 1
+
+MIB = enterprises.3854.2.5.3.1.9.0.0.1.1  
+Value = 100
+
+MIB = enterprises.3854.2.5.3.1.10.0.0.1.1  
+Value = 200
+
+MIB = enterprises.3854.2.5.3.1.11.0.0.1.1  
+Value = 300
+
+MIB = enterprises.3854.2.5.3.1.12.0.0.1.1  
+Value = 400
+
+MIB = enterprises.3854.2.5.3.1.13.0.0.1.1  
+Value = 20
+
+MIB = enterprises.3854.2.5.3.1.14.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.15.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.16.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.17.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.18.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.19.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.20.0.0.1.1  
+Value = 313
+
+MIB = enterprises.3854.2.5.3.1.21.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.35.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.36.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.37.0.0.1.1  
+Value = 2147479552
+
+MIB = enterprises.3854.2.5.3.1.45.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.46.0.0.1.1  
+Value = High Critical
+
+MIB = enterprises.3854.2.5.3.1.47.0.0.1.1  
+Value = Low Critical
+
+MIB = enterprises.3854.2.5.3.1.48.0.0.1.1  
+Value = Normal
+
+MIB = enterprises.3854.2.5.3.1.49.0.0.1.1  
+Value = Low Warning
+
+MIB = enterprises.3854.2.5.3.1.50.0.0.1.1  
+Value = High Warning
+
+MIB = enterprises.3854.2.5.3.1.51.0.0.1.1  
+Value = Sensor Error
+
+MIB = enterprises.3854.2.5.3.1.54.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.55.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.56.0.0.1.1  
+Value = 34048
+
+MIB = enterprises.3854.2.5.3.1.57.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.58.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.59.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.70.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.71.0.0.1.0  
+Value = No Such Object currently exists at this OID
+
+MIB = enterprises.3854.2.5.3.1.1.0.0.1.1  
+Value = 0.0.1.1
+
+MIB = enterprises.3854.2.5.3.1.2.0.0.1.1  
+Value = Dual Temperature Port 1
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.5.0.0.1.1  
+Value = C
+
+MIB = enterprises.3854.2.5.3.1.6.0.0.1.1  
+Value = 3
+
+MIB = enterprises.3854.2.5.3.1.8.0.0.1.1  
+Value = 1
+
+MIB = enterprises.3854.2.5.3.1.9.0.0.1.1  
+Value = 100
+
+MIB = enterprises.3854.2.5.3.1.10.0.0.1.1  
+Value = 200
+
+MIB = enterprises.3854.2.5.3.1.11.0.0.1.1  
+Value = 300
+
+MIB = enterprises.3854.2.5.3.1.12.0.0.1.1  
+Value = 400
+
+MIB = enterprises.3854.2.5.3.1.13.0.0.1.1  
+Value = 20
+
+MIB = enterprises.3854.2.5.3.1.14.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.15.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.16.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.17.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.18.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.19.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.20.0.0.1.1  
+Value = 313
+
+MIB = enterprises.3854.2.5.3.1.21.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.35.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.36.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.37.0.0.1.1  
+Value = 2147479552
+
+MIB = enterprises.3854.2.5.3.1.45.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.46.0.0.1.1  
+Value = High Critical
+
+MIB = enterprises.3854.2.5.3.1.47.0.0.1.1  
+Value = Low Critical
+
+MIB = enterprises.3854.2.5.3.1.48.0.0.1.1  
+Value = Normal
+
+MIB = enterprises.3854.2.5.3.1.49.0.0.1.1  
+Value = Low Warning
+
+MIB = enterprises.3854.2.5.3.1.50.0.0.1.1  
+Value = High Warning
+
+MIB = enterprises.3854.2.5.3.1.51.0.0.1.1  
+Value = Sensor Error
+
+MIB = enterprises.3854.2.5.3.1.54.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.55.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.56.0.0.1.1  
+Value = 34048
+
+MIB = enterprises.3854.2.5.3.1.57.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.58.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.59.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.70.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.71.0.0.1.0  
+Value = No Such Object currently exists at this OID
+
+MIB = enterprises.3854.2.5.3.1.1.0.0.1.1  
+Value = 0.0.1.1
+
+MIB = enterprises.3854.2.5.3.1.2.0.0.1.1  
+Value = Dual Temperature Port 1
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.4.0.0.1.1  
+Value = 31
+
+MIB = enterprises.3854.2.5.3.1.5.0.0.1.1  
+Value = C
+
+MIB = enterprises.3854.2.5.3.1.6.0.0.1.1  
+Value = 3
+
+MIB = enterprises.3854.2.5.3.1.8.0.0.1.1  
+Value = 1
+
+MIB = enterprises.3854.2.5.3.1.9.0.0.1.1  
+Value = 100
+
+MIB = enterprises.3854.2.5.3.1.10.0.0.1.1  
+Value = 200
+
+MIB = enterprises.3854.2.5.3.1.11.0.0.1.1  
+Value = 300
+
+MIB = enterprises.3854.2.5.3.1.12.0.0.1.1  
+Value = 400
+
+MIB = enterprises.3854.2.5.3.1.13.0.0.1.1  
+Value = 20
+
+MIB = enterprises.3854.2.5.3.1.14.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.15.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.16.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.17.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.18.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.19.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.20.0.0.1.1  
+Value = 313
+
+MIB = enterprises.3854.2.5.3.1.21.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.35.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.36.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.37.0.0.1.1  
+Value = 2147479552
+
+MIB = enterprises.3854.2.5.3.1.45.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.46.0.0.1.1  
+Value = High Critical
+
+MIB = enterprises.3854.2.5.3.1.47.0.0.1.1  
+Value = Low Critical
+
+MIB = enterprises.3854.2.5.3.1.48.0.0.1.1  
+Value = Normal
+
+MIB = enterprises.3854.2.5.3.1.49.0.0.1.1  
+Value = Low Warning
+
+MIB = enterprises.3854.2.5.3.1.50.0.0.1.1  
+Value = High Warning
+
+MIB = enterprises.3854.2.5.3.1.51.0.0.1.1  
+Value = Sensor Error
+
+MIB = enterprises.3854.2.5.3.1.54.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.55.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.56.0.0.1.1  
+Value = 34048
+
+MIB = enterprises.3854.2.5.3.1.57.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.58.0.0.1.1  
+Value = 16750848
+
+MIB = enterprises.3854.2.5.3.1.59.0.0.1.1  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.3.1.70.0.0.1.1  
+Value = 0
+
+MIB = enterprises.3854.2.5.3.1.71.0.0.1.0  
+Value = No Such Object currently exists at this OID
+

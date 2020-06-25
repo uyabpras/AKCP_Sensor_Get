@@ -1,0 +1,33 @@
+MIB = enterprises.3854.2.5.13.1.1.0.0.3.0  
+Value = 0.0.3.0
+
+MIB = enterprises.3854.2.5.13.1.2.0.0.3.0  
+Value = Relay Port 3
+
+MIB = enterprises.3854.2.5.13.1.6.0.0.3.0  
+Value = 9
+
+MIB = enterprises.3854.2.5.13.1.8.0.0.3.0  
+Value = 1
+
+MIB = enterprises.3854.2.5.13.1.35.0.0.3.0  
+Value = 2
+
+MIB = enterprises.3854.2.5.13.1.36.0.0.3.0  
+Value = 0
+
+MIB = enterprises.3854.2.5.13.1.37.0.0.3.0  
+Value = 2147479552
+
+MIB = enterprises.3854.2.5.13.1.46.0.0.3.0  
+Value = High Critical
+
+MIB = enterprises.3854.2.5.13.1.48.0.0.3.0  
+Value = Normal
+
+MIB = enterprises.3854.2.5.13.1.54.0.0.3.0  
+Value = 15728640
+
+MIB = enterprises.3854.2.5.13.1.56.0.0.3.0  
+Value = 34048
+
