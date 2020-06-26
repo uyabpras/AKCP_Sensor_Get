@@ -42,11 +42,6 @@ class set_get: #class function set and get data
                     oiddesc = str(oidmsg[oidmsg.index("::")+2:oidmsg.index("=")])   #parsing data to get MIB
                     listdata = {'oid':oiddesc, 'value':oidvalue}
                     dumpdict.append(listdata)
-                    with open('AKCP-data-Temperature.txt', 'a+') as f:
-                        f.write("MIB = %s \nValue = %s\n\n" %(oiddesc, oidvalue))
-                        f.close
-
-
             value_dump = json.dumps(dumpdict)
             print(value_dump)
         return value_dump
@@ -87,12 +82,6 @@ class set_get: #class function set and get data
                     oiddesc = str(oidmsg[oidmsg.index("::")+2:oidmsg.index("=")])   #parsing data to get MIB
                     listdata = {'oid':oiddesc, 'value':oidvalue}
                     dumpdict.append(listdata)
-                    with open('AKCP-data-humidity.txt', 'a+') as f:
-                        f.write("MIB = %s \nValue = %s\n\n" %(oiddesc, oidvalue))
-                        f.close
-
-
-
             value_dump = json.dumps(dumpdict)
             print(value_dump)
         return value_dump
@@ -144,12 +133,6 @@ class set_get: #class function set and get data
                     else:
                         listdata = {'oid':oiddesc, 'value':oidvalue}
                         dumpdict.append(listdata)
-                    with open('AKCP-data-relay.txt', 'a+') as f:
-                        f.write("MIB = %s \nValue = %s\n\n" %(oiddesc, oidvalue))
-                        f.close
-
-
-
             value_dump = json.dumps(dumpdict)
             print(value_dump)
         return value_dump
@@ -190,11 +173,6 @@ class set_get: #class function set and get data
                     oiddesc = str(oidmsg[oidmsg.index("::")+2:oidmsg.index("=")])   #parsing data to get MIB
                     listdata = {'oid':oiddesc, 'value':oidvalue}
                     dumpdict.append(listdata)
-                    with open('AKCP-data-Voltage.txt', 'a+') as f:
-                        f.write("MIB = %s \nValue = %s\n\n" %(oiddesc, oidvalue))
-                        f.close
-
-
             value_dump = json.dumps(dumpdict)
             print(value_dump)
         return value_dump
@@ -242,9 +220,4 @@ if __name__ == '__main__':
     os.system('clear')
 
     while True:
-        value.Get_Temperature()
-        value.Get_Humidity()
-        value.Get_Relay()
-        value.Get_Voltage()
-
-        time.sleep(10)
+        set_getter.menu_get()
